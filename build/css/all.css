@@ -1,0 +1,100 @@
+/* line 1, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+body {
+  background: #edebe7;
+  color: #24231b;
+  font-family: 'Arvo', serif;
+  width: 80%;
+  padding: 20px 0;
+  max-width: 960px;
+  margin: 0 auto; }
+
+/* line 11, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.amp {
+  font-style: italic;
+  font-weight: lighter; }
+
+/* line 16, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+h1, #bigtext {
+  text-align: left;
+  text-transform: uppercase;
+  line-height: 1;
+  font-size: 300%;
+  font-weight: normal; }
+
+/* line 24, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.bold {
+  font-weight: bold; }
+
+/* line 28, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.red {
+  color: #b04a4a; }
+
+/* line 32, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.blue {
+  color: #B2C2CC; }
+
+/* line 36, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.tan {
+  color: #FFF9F9; }
+
+/* line 40, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.yellow {
+  color: #FFFFDF; }
+
+/* line 44, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.gray {
+  color: #A1ACB2; }
+
+/* line 51, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.sharing {
+  color: #B2C2CC; }
+
+/* line 55, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.better {
+  color: #b04a4a; }
+
+/* line 59, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.vision {
+  color: #FFFFDF; }
+
+/* line 63, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.now {
+  color: #A1ACB2; }
+
+/* line 67, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.italic {
+  font-style: italic; }
+
+/* line 71, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+a {
+  color: #A1ACB2;
+  text-decoration: none;
+  font-weight: bold; }
+
+/* line 77, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+a:hover {
+  font-weight: normal; }
+
+/* line 81, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+a:visited {
+  color: #B2C2CC; }
+
+/* line 85, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.feedback {
+  float: left;
+  margin-right: 10px; }
+
+/* line 90, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+iframe.twitter {
+  width: auto; }
+
+/* line 95, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+.share-links {
+  float: left;
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px; }
+  /* line 101, /home/k2052/creations/just.makecrap.com/source/css/all.css.scss */
+  .share-links li {
+    float: left;
+    margin-right: 5px; }
