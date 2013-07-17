@@ -1,0 +1,105 @@
+body {
+  background: #edebe7;
+  color: #24231b;
+  font-family: 'Arvo', serif;
+  width: 80%;
+  padding: 20px 0;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.amp {
+	font-style: italic;
+	font-weight: lighter;
+}
+
+h1, #bigtext {
+	text-align: left;
+	text-transform: uppercase;
+	line-height: 1;
+	font-size: 300%;
+	font-weight: normal;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.red {
+	color: #b04a4a; 
+}
+
+.blue {
+	color: #B2C2CC;
+}
+
+.tan {
+	color: #FFF9F9;
+}
+
+.yellow {
+	color: #FFFFDF;
+}
+
+.gray {
+	color: #A1ACB2;
+}
+
+.focus {
+}
+
+.sharing {
+	color: #B2C2CC;
+}
+
+.better {
+	color: #b04a4a;
+}
+
+.vision {
+	color: #FFFFDF;
+}
+
+.now {
+	color: #A1ACB2;
+}
+
+.italic {
+	font-style: italic;
+}
+
+a {
+	color: #A1ACB2;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:hover {
+	font-weight: normal;
+}
+
+a:visited {
+	color: #B2C2CC;
+}
+
+.feedback {
+	float: left;
+	margin-right: 10px;
+}
+
+iframe.twitter {
+	width: auto;
+}
+
+.share-links 
+{
+	float: left;
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+
+	li {
+		float: left;
+		margin-right: 5px;
+	}
+}
